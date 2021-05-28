@@ -1,4 +1,3 @@
-console.log('Client side javascript is loaded!');
 const weatherForm = document.querySelector('form')                  // querySelector work on 1st element (1st para, 1st input etc)
 const search = document.querySelector('input')
 const messageOne = document.querySelector('#message-1')
